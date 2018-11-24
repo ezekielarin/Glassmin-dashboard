@@ -23,12 +23,12 @@
 	/**
 	 * Account SID
 	 **/
-	$config['account_sid']   = 'ACce7d18a12b27ee2bc41e0562b73a4589';
+	$config['account_sid']   = 'yfugfjhglgilgilgkljgkg';
 
 	/**
 	 * Auth Token
 	 **/
-	$config['auth_token']    = 'a78a45034cb048094b5e0389a8236960';
+	$config['auth_token']    = 'hvjhvjhvkbvkjbkbkjbkj';
 
 	/**
 	 * API Version
