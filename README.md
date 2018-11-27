@@ -6,3 +6,6 @@ it contains the following features
 2. user and role managment
 3. Rest api server
 4. custom analytics 
+5. contact manager
+6. mailer
+7. grocery crud
