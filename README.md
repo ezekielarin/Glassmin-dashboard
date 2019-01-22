@@ -9,3 +9,4 @@ it contains the following features
 5. contact manager
 6. mailer
 7. grocery crud
+8. media upload (images)
